@@ -10,7 +10,9 @@ Real-time velocity estimation of an aircraft model from two MPU6050 IMUs
 - Euler integration, ZYX rotation matrix
 
 ## Hardware
-Arduino Mega 2560, 2× MPU6050 on shared I2C (0x68 / 0x69). Wokwi circuit: 
+Arduino Mega 2560, 2× MPU6050 on shared I2C (0x68 / 0x69). Wokwi circuit:
+
+<img width="620" height="573" alt="Screenshot 2026-10-06 at 02 16 20" src="https://github.com/user-attachments/assets/863a23f8-b74e-4681-bd0a-62a4b82f1c31" />
 
 
 ## Dependencies
